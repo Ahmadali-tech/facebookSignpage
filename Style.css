@@ -1,0 +1,84 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.navbar{
+    justify-content: center;
+    background-color: #4267B2;
+}
+.menu{
+    display: flex;
+}
+.email{
+    justify-content: right;
+    margin-left: 30%;
+    display: inline-block;
+    
+
+}
+.password{
+    margin-left:10%;
+}
+.password-2{
+    margin-left: 10%;
+}
+.menu{
+    margin-left: 30%;
+}
+.menu h1{
+    color: white;
+}
+.lable{
+    color: #ccc;
+}
+.lable-2{
+    margin-left:18px;
+    color: #ccc;
+}
+button{
+    height: 20px;
+    margin-top: 13px;
+
+}
+.facebook-description{
+    margin:100px;
+    width: 30%;
+}
+.section{
+    display: flex;
+    margin-top: 10px;
+}
+.Sign-up{
+    padding: 15px;
+}
+.Sign-up  p1{
+    color:#4267B2;
+    font-size: small;
+
+}
+.Sign-up2 button{
+  padding: 3% 6% 6% 3%;
+    text-align: center;
+    margin-top: 10%;
+    background: -webkit-linear-gradient(#79bc64, #578843);
+    margin-bottom: 10px;
+    color: #ccc;
+}
+.Sign-up input{
+    padding: 7px;
+}
+.Sign-up-3{
+    margin-top: 10%;
+}
+.Email input{
+    padding-right: 190px;
+    margin-top: 10px;
+}
+.Birthday{
+    margin-top:20px;
+}
+.link span{
+    color: #4267B2 ;
+}
